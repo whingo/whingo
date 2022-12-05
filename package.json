@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "start": "node crew.js"
+  }
+}
